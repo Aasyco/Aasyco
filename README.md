@@ -17,13 +17,5 @@ You can click the Preview link to take a look at your changes.
 ### `~# head language.py`
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansyso&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=20"></a>
 
-```python
-class Languages:
-  def __init__(self):
-    self.python = "Python 🐍"
-    self.bash = "Bash 🔩"
-    self.golang = "Golang (Learning)"
-    self.future = "..."
-```
 
 <br/>
