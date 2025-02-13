@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on security tools, obfuscators, and high-performance systems.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I mastered up to 20 programming languages and built a tech empire from just $11!
+- ⚡ Fun fact: I mastered up to 20 programming languages!
 
 <!---
 ansyso/ansyso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
