@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I mastered up to 20 programming languages!
 
 <!---
-ansyso/ansyso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aasyco/Aasyco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
