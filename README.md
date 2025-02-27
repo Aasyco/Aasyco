@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ansyso
+- 👋 Hi, I’m @Aasyco
 - 👀 I’m interested in modifying and improving software, cybersecurity, and reverse engineering.
 - 🌱 I’m currently refining advanced obfuscation techniques and performance optimization.
 - 💞️ I’m looking to collaborate on security tools, obfuscators, and high-performance systems.
